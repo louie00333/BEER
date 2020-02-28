@@ -1,0 +1,30 @@
+### Summer Oat Ale ###
+
+|= Description =|
+    First recipe that I have designed
+
+|= Quantity =|
+    10gal
+
+|= Goal ABV =|
+    6.0%
+
+|= Goal Mash Temp =|
+    150deg
+
+
+--- INGREDIENTS ---
+|= Grains =|
+    - 15lbs 2-Row Pale Malt 
+    - 3lbs Oats
+    - 1lb Crystal 10L
+    - 1lb Crystal 20L
+
+|= Hops =|
+    - 1oz Apollo..........@ 60min
+    - 1oz Hallertau.......@ 20min
+    - 1oz Crystal.........@ 5min
+
+|= Additions =|
+    - 1tab whirlfloc......@ 10min
+    - 2T Vanilla extract..@ 5min
