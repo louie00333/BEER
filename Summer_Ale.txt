@@ -33,5 +33,12 @@
     - 1.5oz Honey.........@ 5min
     
 --- PROCESS ---
+|= Mash =|
+    - 90min
+    - ~7gal
+    Sparge
+        - ~4gal
 
-    
+|= Rack Off =|
+    - Garage: Goal temp of 62deg  
+ 
