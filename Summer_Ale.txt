@@ -40,5 +40,9 @@
         - ~4gal
 
 |= Rack Off =|
-    - Garage: Goal temp of 62deg  
- 
+    - Carboy #1 (4.5gal) Added A09 Pub Yeast, Garage wrapped in blankets at around 68deg
+    - Carboy #2 (4.5gal) Wineroom around 71deg open (but no yeast)
+
+|= After 2 Days =|
+    - Carboy #1 Finished fermentation, moved to warm (70deg) dark bathroom
+    - Carboy #2 Began natural fermentation, moved to garage w/ blankets, added A01 House Yeast 
