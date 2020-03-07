@@ -32,17 +32,26 @@
     - 6oz light brown sugar...@ 5min
     - 1.5oz Honey.........@ 5min
     
---- PROCESS ---
-|= Mash =|
+--- PROCESS/Notes ---
+|= Mash (Sunday) =|
     - 90min
     - ~7gal
+    - Started at 151deg dropped to 140deg @30min
     Sparge
-        - ~4gal
+        - ~4gal @180deg
+        
 
-|= Rack Off =|
+|= Rack Off (Sunday) =|
     - Carboy #1 (4.5gal) Added A09 Pub Yeast, Garage wrapped in blankets at around 68deg
     - Carboy #2 (4.5gal) Wineroom around 71deg open (but no yeast)
 
 |= After 2 Days =|
-    - Carboy #1 Finished fermentation, moved to warm (70deg) dark bathroom
+    - Carboy #1 Finished fermentation, moved to warmer room (70deg) for diacytel rest
     - Carboy #2 Began natural fermentation, moved to garage w/ blankets, added A01 House Yeast 
+
+|= After 4 Days =|
+    - Carboy #2 Finished fermentation, moved to warmer room (70deg) for diacytel rest
+
+|= After 5 Days (Friday) =|
+    - Carboy #1 moved too Fridge for cold crash
+    
