@@ -4,10 +4,12 @@
     First recipe that I have designed
 
 |= Quantity =|
-    10gal
+    10gal 
 
-|= Goal ABV =|
-    6.0%
+|= ABV =|
+    OG: 1.050
+    FG: 1.007
+    ABV: 6.0%
 
 |= Goal Mash Temp =|
     150deg
@@ -16,9 +18,8 @@
 --- INGREDIENTS ---
 |= Grains =|
     - 15lbs 2-Row Pale Malt 
+    - 2lbs 15L
     - 3lbs Oats
-    - 1lb Crystal 10L
-    - 1lb Crystal 20L
 
 |= Hops =|
     - 1oz Apollo..........@ 60min
@@ -56,5 +57,7 @@
     - Carboy #1 moved too Fridge for cold crash
     
 |= After 7 Days (Sunday) =|
-    - Kegged off Carboy #1 (-2 bottles for comparing with CB#2)
-        - Priming sugar made with 2 sugar cubes in boiled water (~few oz)
+    - Kegged off Carboy #1 (1 bottled for comparing with CB#2)
+        - Priming sugar = 0.75 sugar cubes dipped in sanitizer for 1 bottle
+    - Carboy #2 put in fridge for cold crash
+    
