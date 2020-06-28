@@ -1,0 +1,45 @@
+### Red Ginger APA ###
+
+|= Description =|
+    Bright red ale hosting sharp flavors of ginger over a backdrop of hops. An airy beer for warm Summer days.  
+
+|= Quantity =|
+    - 5 gal 
+
+|= ABV =|
+    - Goal: 5.0%
+    - Actual: *
+
+|= Goal Mash Temp =|
+    - Goal: 150deg
+    - Actual: *
+
+--- INGREDIENTS ---
+|= Grains =|
+    - 6lbs 2-Row Pale Malt
+    - 3lb Maris Otter
+    - 1lb Crystal 40
+    - 1lb CaraRed
+
+|= Hops =|
+    - 1oz Chinook..........@ 60min
+    - 1oz Chinook..........@ 20min
+    - 1oz Spalt............@ 20min
+
+|= Additions =|
+    - 0.5oz Grated Ginger....@ 10min
+    - 1oz Sliced Ginger......@ 5days
+    
+--- PROCESS/Notes ---
+|= Mash () =|
+    - 
+
+    Sparge
+    -
+        
+|= Boil =|
+    - 90min
+
+|= Rack Off () =|
+    -
+    
