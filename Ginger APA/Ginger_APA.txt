@@ -7,6 +7,8 @@
     - 5 gal 
 
 |= ABV =|
+    - OG:
+    - FG:
     - Goal: 5.0%
     - Actual: *
 
@@ -16,17 +18,20 @@
 
 --- INGREDIENTS ---
 |= Grains =|
-    - 6lbs 2-Row Pale Malt
+    - 5lbs 2-Row Pale Malt
     - 3lb Maris Otter
-    - 1lb Crystal 40
+    - 0.5lb Crystal 40
+    - 0.25lb Crystal 75
     - 1lb CaraRed
 
 |= Hops =|
     - 1oz Chinook..........@ 60min
-    - 1oz Chinook..........@ 20min
+    - 0.5oz Chinook........@ 20min
     - 1oz Spalt............@ 20min
+    - 0.5oz Chinook........@ 0min
 
 |= Additions =|
+    - 0.5lbs Sugar...........@ 10min
     - 0.5oz Grated Ginger....@ 10min
     - 1oz Sliced Ginger......@ 5days
     
@@ -38,7 +43,7 @@
     -
         
 |= Boil =|
-    - 90min
+    - 75min
 
 |= Rack Off () =|
     -
